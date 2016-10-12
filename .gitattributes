@@ -1,1 +1,2 @@
-*.sql binary
+/1/*.sql binary
+/2/3/*.sql binary
