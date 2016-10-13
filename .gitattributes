@@ -1,3 +1,3 @@
-/1/*.sql binary
-/2/3/*.sql binary
-/5/dfdff.sql crlf
+\1\*.sql binary
+\2\3\*.sql binary
+\5\dfdff.sql crlf
